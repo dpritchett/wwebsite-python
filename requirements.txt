@@ -5,6 +5,6 @@ Werkzeug==0.8.3
 #bpython==0.10.1
 #certifi==0.0.8
 chardet==1.0.1
-gunicorn==0.14.1
+gunicorn==19.5.0
 #requests==0.10.8
 wsgiref==0.1.2
