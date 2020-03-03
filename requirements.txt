@@ -1,7 +1,7 @@
 Flask==1.0
 Jinja2==2.6
 Pygments==1.5
-Werkzeug==0.8.3
+Werkzeug==0.15.3
 #bpython==0.10.1
 #certifi==0.0.8
 chardet==1.0.1
